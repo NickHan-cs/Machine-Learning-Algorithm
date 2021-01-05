@@ -1,0 +1,9 @@
+{
+  "is_train": false,
+  "max_depth": 6,
+  "min_samples_split": 8,
+  "min_impurity_split": 1e-5,
+  "max_features": "log2",
+  "n_estimators": 20,
+  "model_file": "../model/2020-12-16-17-16-23_rf_model.txt"
+}
